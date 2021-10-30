@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("master-test");
         System.out.println("hot-fix-test111");
+        System.out.println("在 IDEA 中使用 SSH 协议 push 代码");
     }
     public static void a(){}
 }
